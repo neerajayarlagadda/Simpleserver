@@ -1,0 +1,20 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "simple website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraja",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "^0.15.1",
+    "express": "*",
+    "html": "^1.0.0",
+    "nodemailer": "*",
+    "pug": "*",
+    "swig": "^1.4.2"
+  }
+}
